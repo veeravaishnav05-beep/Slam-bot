@@ -14,7 +14,7 @@ import traceback
 # =========================================================
 
 BOT_TOKEN = "8651296935:AAHNhSrpra8FPuvy4XN5RaJwmzoaRoEYen8"
- ADMIN_IDS = [6769245930, 8769651906]
+ ADMIN_IDS = 6769245930, 8769651906
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
