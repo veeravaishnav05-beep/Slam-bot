@@ -13,8 +13,8 @@ import traceback
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "8425853112:AAGT0VaNE15Dnj5EF2SvNu-mT7UOggyc3Ss"
-ADMIN_ID = 8533061461
+BOT_TOKEN = "7034670758:AAFKjvbhhx6OB7sW0aHZ3hJSFD_YOOvKAic"
+ADMIN_ID = 6769245930
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
